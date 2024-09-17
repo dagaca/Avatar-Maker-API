@@ -120,26 +120,44 @@ Background Color: "light gray"
 
 
 6. Description: "A young boy playing in the snow, bundled up in a bright red scarf and a wooly hat."
+
 Background Color: "snow white"
+
+![avatar_6](https://github.com/user-attachments/assets/3ff60b18-444b-4bc6-8845-3c3cd1aeb542)
+
 
 
 7. Description: "An elegant ballerina in a white tutu, gracefully posing on a stage under soft golden lights."
 
 Background Color: "soft gold"
 
+![avatar_7](https://github.com/user-attachments/assets/cd22504c-4ea4-4e8d-bb2c-eeeefa5c7568)
+
+
 
 8. Description: "A medieval knight in shining armor, holding a sword and shield, standing in front of a castle."
 
 Background Color: "royal blue"
 
+![avatar_8](https://github.com/user-attachments/assets/c79047af-8d84-46ae-9ef6-1dc44582e6ef)
+
+
 
 9. Description: "A retro-styled young man with a slicked-back hairstyle, wearing a leather jacket and sunglasses."
+
 Background Color: "fiery orange"
+
+![avatar_9](https://github.com/user-attachments/assets/fb026941-175e-4e6f-8336-dffcde5279e3)
+
 
 
 10. Description: "A mystical sorceress with glowing hands, casting a spell, her long purple robe billowing around her."
 
 Background Color: "twilight violet"
+
+![avatar (10)](https://github.com/user-attachments/assets/7a280338-0ece-4717-b4eb-e30577348ffe)
+
+
 
 ## Contributing
 If you would like to contribute, please submit a pull request or open an issue on GitHub.
