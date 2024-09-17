@@ -48,7 +48,6 @@ The Personal Avatar Generation API allows users to create custom avatars based o
    ```bash
    python run.py
 
-## Usage
 ### Avatar Creation
 The API allows you to create an avatar by sending a POST request as follows:
 
@@ -99,6 +98,9 @@ Background Color: "soft yellow"
 3. Description: "A bold superhero with a flowing red cape and a mask, standing tall on a city rooftop at night."
 
 Background Color: "dark purple"
+
+![avatar_3](https://github.com/user-attachments/assets/25414605-f0a5-4389-87b2-ce2ac3dc52eb)
+
 
 
 4. Description: "A gentle forest elf with pointed ears, wearing a cloak made of leaves, standing among ancient trees."
