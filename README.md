@@ -107,10 +107,16 @@ Background Color: "dark purple"
 
 Background Color: "forest green"
 
+![avatar_4](https://github.com/user-attachments/assets/8cd452cb-a24b-4fab-bede-24953755b061)
+
+
 
 5. Description: "A chic businesswoman with short hair and glasses, holding a tablet, dressed in a black blazer."
 
 Background Color: "light gray"
+
+![avatar (5)](https://github.com/user-attachments/assets/977dc4fe-cf62-4811-be56-c5a75968c13b)
+
 
 
 6. Description: "A young boy playing in the snow, bundled up in a bright red scarf and a wooly hat."
