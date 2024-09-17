@@ -83,7 +83,9 @@ Here are 10 unique avatars created using the Personal Avatar Generation API, eac
 1. Description: "A futuristic astronaut floating in space, wearing a high-tech spacesuit with a visor reflecting the stars."
 
 Background Color: "midnight blue"
-![avatar_1](https://github.com/user-attachments/assets/d356eeca-f14f-4bd5-9d3f-6d6e7790ab7f)
+
+![avatar_1](https://github.com/user-attachments/assets/be6d73e3-270a-46a7-b846-b5f47a32d290)
+
 
 
 2. Description: "A young woman in a vibrant floral dress, standing in a sunflower field with a wide-brimmed hat."
