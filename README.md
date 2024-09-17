@@ -92,6 +92,9 @@ Background Color: "midnight blue"
 
 Background Color: "soft yellow"
 
+![avatar_2](https://github.com/user-attachments/assets/2fed81e0-2bf7-4c48-a693-ce7f43f37755)
+
+
 
 3. Description: "A bold superhero with a flowing red cape and a mask, standing tall on a city rooftop at night."
 
