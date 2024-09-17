@@ -49,6 +49,7 @@ The Personal Avatar Generation API allows users to create custom avatars based o
    python run.py
 
 ### Avatar Creation
+
 The API allows you to create an avatar by sending a POST request as follows:
 
 **Endpoint:**
@@ -65,6 +66,7 @@ The API allows you to create an avatar by sending a POST request as follows:
    ```
 
 **description:** (string) A textual description for generating the avatar.
+
 **background_color:** (string) The background color for the avatar.
 
 **Response:**
@@ -72,7 +74,9 @@ The API allows you to create an avatar by sending a POST request as follows:
 Upon success, the generated avatar will be returned as a PNG file for download.
 
 **Error Responses**
+
 **400 Bad Request:** When required fields are missing or invalid.
+
 **500 Internal Server Error:** When an unexpected error occurs on the server side.
 
 ## Avatar Gallery: Explore Unique Creations
