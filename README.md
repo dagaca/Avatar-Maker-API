@@ -31,7 +31,7 @@ The Personal Avatar Generation API allows users to create custom avatars based o
 
 2. **Install Dependencies:**
 
-   '''bash
+   ```bash
    pip install -r requirements.txt
    ```
 
