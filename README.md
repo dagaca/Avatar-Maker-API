@@ -27,11 +27,13 @@ The Personal Avatar Generation API allows users to create custom avatars based o
    ```bash
    git clone <repository_url>
    cd <repository_name>
+   ```
 
 2. **Install Dependencies:**
 
    '''bash
    pip install -r requirements.txt
+   ```
 
 3. **Set Up Environment Variables:**
 
@@ -43,11 +45,13 @@ Create a .env file with the following content:
    LOG_FILE=app.log
    API_URL=https://api-inference.huggingface.co/models/black-forest-labs/FLUX.1-dev
    HUGGINGFACE_API_TOKEN=your_token_here
+   ```
 
 4. **Run the Application:**
 
    ```bash
    python run.py
+   ```
 
 ### Avatar Creation
 
