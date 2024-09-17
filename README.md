@@ -157,7 +157,29 @@ Background Color: "twilight violet"
 
 ![avatar (10)](https://github.com/user-attachments/assets/7a280338-0ece-4717-b4eb-e30577348ffe)
 
+## Postman Collection and Swagger UI
 
+To help with API testing, we have included:
+
+**Postman Collection:** A Postman collection file that contains all the endpoints of the API.
+**Swagger UI:** Swagger UI is automatically generated for the API, making it easy to explore the available endpoints.
+
+### Swagger UI
+You can access the Swagger documentation at the following URL when the application is running:
+
+   ```bash
+   http://localhost:5000/apidocs/
+   ```
+
+Here is a screenshot of the Swagger UI interface:
+
+![image](https://github.com/user-attachments/assets/c7c0d2e7-7a7e-47e2-9c23-d49826f77a39)
+
+
+### Postman Collection
+Download the Postman Collection from this repository to import into your Postman workspace for easier testing.
+
+Postman Collection File: [Avatar-Maker-API Postman Collection](postman/Avatar-Maker-API.postman_collection.json)
 
 ## Contributing
 If you would like to contribute, please submit a pull request or open an issue on GitHub.
