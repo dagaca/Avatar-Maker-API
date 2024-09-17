@@ -1,0 +1,6 @@
+Flask==2.2.5
+Werkzeug==2.2.3
+flasgger==0.9.7.1
+python-dotenv==0.21.0
+Pillow==10.3.0
+requests==2.32.2
