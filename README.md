@@ -32,9 +32,10 @@ The Personal Avatar Generation API allows users to create custom avatars based o
 
    '''bash
    pip install -r requirements.txt
-   Set Up Environment Variables:
 
-3. **Create a .env file with the following content:**
+3. **Set Up Environment Variables:**
+
+Create a .env file with the following content:
 
    ```bash
    RESULT_FOLDER=results
