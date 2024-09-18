@@ -25,8 +25,8 @@ The Personal Avatar Generation API allows users to create custom avatars based o
 1. **Clone the Repository:**
 
    ```bash
-   git clone <repository_url>
-   cd <repository_name>
+   git clone <https://github.com/dagaca/avatar-maker-api.git>
+   cd <Avatar-Maker-API>
    ```
 
 2. **Install Dependencies:**
